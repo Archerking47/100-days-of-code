@@ -27,3 +27,11 @@ I Finished the first project in Responsive web design in freecodecamp which is t
 ###Day 2: February 21, 2022
 I am creating the Survey form.
 struggle a bit on html elements and attributes
+
+### Day 3: February 22, 2022
+Passed the survey form project but did not do styling yet
+started the basic javascript
+
+### Day 4: February 23, 2022
+Styled the survey form and I like it.
+basic javascript at 65%.
