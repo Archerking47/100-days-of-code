@@ -35,3 +35,12 @@ started the basic javascript
 ### Day 4: February 23, 2022
 Styled the survey form and I like it.
 basic javascript at 65%.
+
+### Day 5: February 24, 2022
+Day 5
+
+Creating the 3rd Project of Responsive Website the Product Landing Page.
+
+Basic Javascript at 71%
+Learn If else statement and how to use switch / case / default / break
+
